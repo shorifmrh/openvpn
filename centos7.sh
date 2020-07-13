@@ -1,11 +1,6 @@
 #!/bin/bash
 
 clear
-echo "   ___         _    ___  ___ ____   "
-echo "  / __|___ _ _| |_ / _ \/ __|__  |  "
-echo " | (__/ -_) ' \  _| (_) \__ \ / /   "
-echo "  \___\___|_||_\__|\___/|___//_/    "
-echo " OpenVPN Access Server With Unlimited License BY Nirob3x"
 
 yum update -y
 yum install wget -y
